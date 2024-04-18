@@ -18,7 +18,7 @@ public:
         Set result;  
         set_intersection(m_set.begin(), m_set.end(),  
                                other.begin(), other.end(),  
-                               inserter(result, result.end()));  
+                               inserter(result, result.end()));  //asdasdasdsad
         return result;  
     }  
   
