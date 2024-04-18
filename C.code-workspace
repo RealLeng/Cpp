@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"name": "C",
+			"path": "../C"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"array": "c",
+			"deque": "c",
+			"vector": "c",
+			"string_view": "c",
+			"math.h": "c",
+			"string.h": "c",
+			"iostream": "cpp",
+			"*.tcc": "cpp",
+			"iomanip": "cpp",
+			"iosfwd": "cpp"
+		}
+	}
+}
