@@ -1,4 +1,4 @@
-#include <iostream>  
+#include <iostream>  //asdasdasdasdasd
 using namespace std;
   
 template <typename T, template <typename, typename...> class SetType = set>  
@@ -18,7 +18,7 @@ public:
         Set result;  
         set_intersection(m_set.begin(), m_set.end(),  
                                other.begin(), other.end(),  
-                               inserter(result, result.end()));  //asdasdasdsad
+                               inserter(result, result.end()));  
         return result;  
     }  
   
